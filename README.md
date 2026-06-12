@@ -1,0 +1,2 @@
+# jcoletech-website
+static website
